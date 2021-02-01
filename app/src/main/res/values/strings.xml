@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutorial05</string>
+    <string name="radio_male"> Male </string>
+    <string name="radio_female"> Female </string>
+    <string name="firstname">First name:</string>
+    <string name="textview">TextView</string>
+    <string-array name="city">
+        <item>Junagadh</item>
+        <item>Rajkot</item>
+        <item>Surat</item>
+    </string-array>
+</resources>
